@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /img/logo.png# image
+  logo: /img/logo2.png# image
   display_title: true
   fixed: true # fixed navigation bar
 
@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/tx.jpeg
+  img: /img/tx.png
   effect: false
 
 # Disable all banner image
@@ -156,7 +156,7 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href:
+  author_href: https://blogbyrs.fun
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -234,7 +234,7 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 分享些奇奇怪怪的技术，偶尔也会更新些"朋友"的段子，另外——没人可以定义我！
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

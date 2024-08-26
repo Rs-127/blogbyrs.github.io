@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 日常的碎碎念
-subtitle: '喜欢摸鱼'
+title: Rs12-Blog
+subtitle: '碎碎念的日常'
 description: ''
 keywords:
 author: Rs12
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blogbyrs.fun
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
