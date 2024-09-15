@@ -26,8 +26,8 @@ highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / 
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
-highlight_height_limit: false # unit: px
-code_word_wrap: false
+highlight_height_limit: 350 # unit: px
+code_word_wrap: true
 
 # Social Settings (社交圖標設置)
 # formal:
@@ -231,7 +231,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Rs-127
   card_announcement:
     enable: true
     content: 分享些奇奇怪怪的技术，偶尔也会更新些"朋友"的段子，另外——没人可以定义我！
